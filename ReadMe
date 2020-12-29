@@ -1,0 +1,8 @@
+The current repository presents the base Matlab code used in the research work 'Watermarking for protected fingerprint
+authentication' published at "https://ieeexplore.ieee.org/document/7880039?section=abstract".
+
+- The repository includes two main stages of the presented method, including watermark embedding and watermark extraction.
+- To excute the code:
+    + Run the 'watermarking.m' to embed the watermark.
+    + Run the 'Conc_im_tatou_fileMAT.m' file to concatenate the .mat files of the watermarked images.
+    + Run the 'Extraction.m' to detect the embedded watermark.
